@@ -1,0 +1,8 @@
+# Python 3.8 or newer
+
+opencv-python
+numpy
+Pillow
+
+# tkinter is part of the Python standard library on Windows and macOS.
+# On Linux it may have to be installed separately:  sudo apt install python3-tk
